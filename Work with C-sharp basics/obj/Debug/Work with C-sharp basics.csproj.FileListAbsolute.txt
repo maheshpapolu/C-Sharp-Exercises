@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Work with C-sharp basics\Work with C-sharp basics\bin\Debug\Work with C-sharp basics.exe.config
+C:\Users\Dell\source\repos\Work with C-sharp basics\Work with C-sharp basics\bin\Debug\Work with C-sharp basics.exe
+C:\Users\Dell\source\repos\Work with C-sharp basics\Work with C-sharp basics\bin\Debug\Work with C-sharp basics.pdb
+C:\Users\Dell\source\repos\Work with C-sharp basics\Work with C-sharp basics\obj\Debug\Work with C-sharp basics.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Work with C-sharp basics\Work with C-sharp basics\obj\Debug\Work with C-sharp basics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Work with C-sharp basics\Work with C-sharp basics\obj\Debug\Work with C-sharp basics.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Work with C-sharp basics\Work with C-sharp basics\obj\Debug\Work with C-sharp basics.exe
+C:\Users\Dell\source\repos\Work with C-sharp basics\Work with C-sharp basics\obj\Debug\Work with C-sharp basics.pdb
